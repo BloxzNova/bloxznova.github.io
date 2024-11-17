@@ -1,1 +1,4 @@
-{isHalloween: false, IsDisabledMatchmaking: false}
+{
+  "isMatchmakingDisabled": true
+  "isApiUnabled" : false
+}
